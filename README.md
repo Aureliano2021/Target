@@ -4,10 +4,13 @@
 ### Resposta 1 - Linguagem JAVA
 
 package com.aureliano.target.Questao1;
+
 import java.util.Scanner;
+
 /*@author Aureliano Amorim */
+
 public class Questao1 {
-/*Questao 1 - Fibonacci */
+
     public static void main(String[] args) {
         
         int f1 = 0;
@@ -53,6 +56,7 @@ package com.aureliano.questao2;
 
 /*@author Aureliano Amorim
  */
+ 
 public class Questao2 {
     public static void main(String[] args) {
         String nome = "Aureliano Amorim de Oliveira";
